@@ -1,0 +1,46 @@
+#The following are the analysis and insights we are goimg to perform for the loan portfolio and credit risk analysis
+#======================================================
+#Part 1:Analysis and Insights
+#======================================================
+
+#------------------------------------------------------------------
+# (a.) Portfolio & Exposure.
+#------------------------------------------------------------------
+# 1.Total Amount Disbursed (2023-2025)
+# 2.Exposure at Default (EAD-Balance weighted risk)
+# 3.Portfolio at Risk(PAR-30/60/90+)
+#------------------------------------------------------------------
+
+#-------------------------------------------------------------------
+# (b.) Credit Risk & Default Behaviour.
+#-------------------------------------------------------------------
+# 4. Default Rate By Loan Type.
+# 5. Credit Score vs realized default rates.
+# 6. Loan performance distribution.
+# 7. Loan-to-income ratio impact on default rates.
+#-------------------------------------------------------------------
+
+#--------------------------------------------------------------------
+# (c.) Repayment Dynamics.
+#--------------------------------------------------------------------
+# 8. Repayment frequency deterioration analysis.
+#---------------------------------------------------------------------
+
+#---------------------------------------------------------------------
+# (d.) Lending profile overview.
+#---------------------------------------------------------------------
+# 9. Average Loan Amount & Interest Rate.
+# -------------------------------------------------------------------- 
+
+#----------------------------------------------------------------------
+# (e.) Concentration Risk - Exposure by customer segments and loan types.
+#-----------------------------------------------------------------------
+# 10. Region Risk Concentration - Exposure by geographical regions.
+#-----------------------------------------------------------------------
+
+#============================================================
+#Part 2:Exploratory Data Analysis (EDA) and Visualization
+#============================================================
+# 1. Loan distribution by type and City.
+# 2. Calculate default rate (fraction of loans that are 'Defaulted') per loan type
+# 3. Correlation Analysis
